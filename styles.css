@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+
+#titulo{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    
+}
+#saludo{
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    color: beige;
+    box-shadow: 0 3px 8px 1px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.18);
+    text-shadow: 7px 4px 5px blue;
+}
+
+#formulario{
+    font-family: 'Lilita One', cursive;
+    text-align: center;
+    font-size: 20px;
+}
+label{
+    margin-left: 30px;
+    color: rgb(89, 89, 207);
+}
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/1012/686/HD-wallpaper-clearblue-blue-clear.jpg);
+    opacity: 90%;
+}
+
+#botonprincipal{
+    opacity: 100%;
+    font-size: 20px;
+    font-family: 'Lilita One', cursive;
+    border-radius: 50px;
+}
+
+#botonprincipal:hover{
+    background-color: #bbbbbb;
+    border-radius: 30px;
+}
+
+#interaccion{
+    font-family: 'Lilita One', cursive;
+    text-align: center;
+    font-size: 20px;
+}
+
+.botones{
+    font-size: 20px;
+    font-family: 'Lilita One', cursive;
+    border-radius: 50px;
+}
+.botones:hover{
+    background-color: #bbbbbb;
+    border-radius: 30px;
+}
